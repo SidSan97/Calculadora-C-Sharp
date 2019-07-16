@@ -1,0 +1,9 @@
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\SIDNEI\Documents\Visual Studio 2013\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
